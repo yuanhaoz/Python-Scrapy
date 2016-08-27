@@ -96,6 +96,6 @@ SITE_ID = {'takungpao':1,
            }
 DATA_TYPE = 0 #媒体类都是0
 DOWNLOAD_DELAY = 0.55
-KEY_WORDS= [u'毒品', u'吸毒', u'大麻', u'海洛因', u'吗啡', u'冰毒', u'杜冷丁', u'摇头丸']
+KEY_WORDS= [u'毒品', u'吸毒', u'大麻', u'海洛因', u'吗啡', u'冰毒', u'杜冷丁', u'摇头丸', u'境外吸毒', u'境外毒品']
 # KEY_WORDS= [u'毒品']
 SQLITE_FILE = './test.db'
